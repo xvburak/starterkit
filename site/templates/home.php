@@ -19,6 +19,7 @@
 */
 ?>
 <?php snippet('header') ?>
+<h1>hello</h1>
   <?php snippet('intro') ?>
   <?php
   /*
